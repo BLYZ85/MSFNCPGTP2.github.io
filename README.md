@@ -1,16 +1,16 @@
 ## Features
 
-- Feature 1: [What is Declaration?]
+- What is Declaration?
   
-![Alt Sec1](sec1.png)
+<img src="sec1.png" alt="Image" width="500" />
 
-- Feature 2: [How does it affect you?]
+- How does it affect you?
 
-![Alt Sec2](sec3.png)
+<img src="sec3.png" alt="Image" width="500" />
 
-- Feature 3: [NCPG clarifies!]
+- NCPG clarifies!
 
-![Alt Sec3](sec2.png)
+<img src="sec2.png" alt="Image" width="500" />
 
 ## Getting Started
 
@@ -23,18 +23,6 @@ To get started with the process, understand these steps:
 Make sure you do not miss this!:
 
 ![Alt Notice](notice.png)
-
-## Contributions
-
-Contributions are welcome! If you'd like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature.
-3. Make your changes and submit a pull request.
-
-## Support
-
-If you encounter any issues or have questions, please feel free to [open an issue](https://github.com/yourusername/yourproject/issues) or [contact us](mailto:contact@example.com).
 
 ## NCPG Main Website
 
